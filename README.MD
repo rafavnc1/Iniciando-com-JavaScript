@@ -1,4 +1,4 @@
-# Iniciando com JavaScript / Starting with JavaScript
+# Iniciando com JavaScript / Getting started on JavaScript
 [![NPM](https://img.shields.io/npm/l/react)](./LICENSE)
 
 # Sobre o projeto / About the project
